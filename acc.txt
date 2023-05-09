@@ -1,0 +1,13 @@
+Quyền System Admin:
+Tài khoản: congthuong@gmail.com
+Mật Khẩu: 123456
+Quyền Admin:
+Tài Khoản: dangkhoa@gmail.com
+Mật Khẩu: 123456
+
+API
+..../api/login
+..../api/register
+..../api/logout
+..../api/user
+..../api/tokens
